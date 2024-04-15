@@ -226,6 +226,11 @@ components:
       enum:
         - event
         - general
+        - memberTicket
+        - nonMemberGeneralTicket
+        - nonMemberStudentTicket
+        - nonMemberEventTicket
+        - nonMemberEventTicket
       example: event
     Date:
       type: string
